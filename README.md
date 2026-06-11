@@ -27,6 +27,11 @@ Customer profitability analysis helps identify high-value customers.
 
 ## Skills Demonstrated
 Data Analysis
+
+# Power BI Dashboard
+
+![Dashboard Screenshot](images/dashboard.png)<img width="1845" height="779" alt="Dashboard" src="https://github.com/user-attachments/assets/552bd565-7e80-4f04-8aef-92bc8697bb82" />
+
 Dashboard Development
 KPI Reporting
 Business Intelligence
